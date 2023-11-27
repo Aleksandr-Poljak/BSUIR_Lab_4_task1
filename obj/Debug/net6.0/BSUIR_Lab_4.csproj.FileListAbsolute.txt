@@ -1,0 +1,14 @@
+D:\Learning\programming\c#projects\BSUIR_Lab_4\bin\Debug\net6.0\BSUIR_Lab_4.exe
+D:\Learning\programming\c#projects\BSUIR_Lab_4\bin\Debug\net6.0\BSUIR_Lab_4.deps.json
+D:\Learning\programming\c#projects\BSUIR_Lab_4\bin\Debug\net6.0\BSUIR_Lab_4.runtimeconfig.json
+D:\Learning\programming\c#projects\BSUIR_Lab_4\bin\Debug\net6.0\BSUIR_Lab_4.dll
+D:\Learning\programming\c#projects\BSUIR_Lab_4\bin\Debug\net6.0\BSUIR_Lab_4.pdb
+D:\Learning\programming\c#projects\BSUIR_Lab_4\obj\Debug\net6.0\BSUIR_Lab_4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning\programming\c#projects\BSUIR_Lab_4\obj\Debug\net6.0\BSUIR_Lab_4.AssemblyInfoInputs.cache
+D:\Learning\programming\c#projects\BSUIR_Lab_4\obj\Debug\net6.0\BSUIR_Lab_4.AssemblyInfo.cs
+D:\Learning\programming\c#projects\BSUIR_Lab_4\obj\Debug\net6.0\BSUIR_Lab_4.csproj.CoreCompileInputs.cache
+D:\Learning\programming\c#projects\BSUIR_Lab_4\obj\Debug\net6.0\BSUIR_Lab_4.dll
+D:\Learning\programming\c#projects\BSUIR_Lab_4\obj\Debug\net6.0\refint\BSUIR_Lab_4.dll
+D:\Learning\programming\c#projects\BSUIR_Lab_4\obj\Debug\net6.0\BSUIR_Lab_4.pdb
+D:\Learning\programming\c#projects\BSUIR_Lab_4\obj\Debug\net6.0\BSUIR_Lab_4.genruntimeconfig.cache
+D:\Learning\programming\c#projects\BSUIR_Lab_4\obj\Debug\net6.0\ref\BSUIR_Lab_4.dll
